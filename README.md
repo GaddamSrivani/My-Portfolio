@@ -24,7 +24,7 @@ The portfolio showcases my skills, education, projects, and contact details.
 - Dark mode
 - Social media links
 ## Live Portfolio
-Portfolio:
+Portfolio: https://gaddamsrivani.github.io/My-Portfolio/
 ## GitHub
 GitHub:https://github.com/GaddamSrivani
 ## LinkedIn
